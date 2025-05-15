@@ -1,3 +1,7 @@
+## License
+This project is licensed under the [GNU General Public License v3.0](./LICENSE).
+
+
 Difference-in-Differences (DiD) analysis of the Federal Reserve rate hike impact (July 2023) on Tesla (treated) vs. Microsoft (control) stock retnumpy pandas matplotlib statsmodels seaborn scikit-learn causalml yfinancens a DiD analysis evaluating the causal impact of the Fed's rate hike on July 26, 2023, on Tesla's stock returns compared to Microsoft's.
 
 - **Objective**: Assess how the Fed rate hike affected Tesla (a growth stock) more than Microsoft (a stable stock).
