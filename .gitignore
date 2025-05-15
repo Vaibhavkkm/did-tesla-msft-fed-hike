@@ -1,13 +1,10 @@
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# macOS system files
+**/.DS_Store
 
-# Python cache files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# VS Code settings
+.vscode/
 
-# Virtual environment folders
-venv/
-.env
-env/
+# Other common ignores
+*.log
+node_modules/
+
