@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Other common ignores
+*.log
+node_modules/
+
