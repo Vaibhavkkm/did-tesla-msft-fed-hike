@@ -38,7 +38,7 @@ Jan 2022 ──────────── July 26, 2023 ──────�
 
 ---
 
-## 📈 Your Analysis Includes:
+## 📈 My Analysis Includes:
 
 ### **1. Company Comparison (NEW!)**
 - ✅ Real P/E ratios from Yahoo Finance
@@ -62,8 +62,6 @@ Jan 2022 ──────────── July 26, 2023 ──────�
 - ✅ Limitations discussed
 
 ---
-
-## 🎓 Key Numbers for Your Professor
 
 ### **Study Design:**
 - **Sample:** 36 months (Jan 2022 - Dec 2024)
