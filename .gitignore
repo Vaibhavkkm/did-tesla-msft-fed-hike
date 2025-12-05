@@ -8,3 +8,12 @@
 *.log
 node_modules/
 
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.ipynb_checkpoints/
