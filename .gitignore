@@ -17,6 +17,3 @@ __pycache__/
 env/
 venv/
 *.ipynb_checkpoints/
-
-# Presentation
-ppt_presentation/
